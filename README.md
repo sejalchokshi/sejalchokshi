@@ -1,4 +1,4 @@
-<!-- Banner Section -->
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/12345678/your-banner-image.png" alt="Banner" style="width: 100%; height: auto;" />
 </p>
