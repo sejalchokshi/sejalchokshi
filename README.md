@@ -47,6 +47,3 @@ Technologies Used: HTML, CSS, JavaScript
 💼 LinkedIn: https://github.com/sejalchokshi
 ✉️ Email: smchokshi812@gmail.com
 
-
-🎉 Fun Fact
-When I’m not coding, you can find me enjoying movies, Cooking or exploring new technologies!
