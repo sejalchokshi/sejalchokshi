@@ -44,7 +44,7 @@ username=sejalchokshi&layout=compact&theme=radical" alt="Sejal's Top Languages" 
 🌐 Connect with Me
 💬 Let’s connect and create something amazing together:
 
-💼 LinkedIn: 
+💼 LinkedIn: https://github.com/sejalchokshi
 ✉️ Email: smchokshi812@gmail.com
 
 
