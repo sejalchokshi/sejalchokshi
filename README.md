@@ -1,4 +1,5 @@
 🌟 Hi, I'm Sejal Chokshi!
+
 👩‍💻 A Passionate Junior Frontend Developer
 ✨ Crafting beautiful, responsive, and user-friendly web experiences is my passion.
 With expertise in HTML, CSS, and JavaScript, I bring creativity and precision to every project. I thrive in collaborative environments and follow Agile methodologies to deliver high-quality solutions.
@@ -26,11 +27,12 @@ Technologies Used: HTML, CSS, JavaScript
 🔗 View Repository
 📊 GitHub Stats
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sejalchokshi&show_icons=true&theme=radical" alt="Sejal's GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sejalchokshi&theme=radical" alt="Sejal's GitHub Streak" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sejalchokshi&layout=compact&theme=radical" alt="Sejal's Top Languages" /> </div>
+
 🌐 Connect with Me
 💬 Let’s connect and create something amazing together:
 
-💼 LinkedIn
-✉️ Email Me
-🌟 Portfolio (Coming Soon!)
+💼 LinkedIn: 
+✉️ Email: smchokshi812@gmail.com
+
 🎉 Fun Fact
 When I’m not coding, you can find me enjoying movies like Encanto or exploring new technologies!
