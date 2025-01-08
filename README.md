@@ -31,15 +31,16 @@ Technologies Used: HTML, CSS, JavaScript
 Key Features:
 Real-time cart updates
 Responsive design for mobile and desktop
+
 🔗 View Repository
 
 🌐 Portfolio Website
 A sleek and fully responsive portfolio to showcase my skills and projects.
 
 Technologies Used: HTML, CSS, JavaScript
+
 🔗 View Repository
 
-username=sejalchokshi&layout=compact&theme=radical" alt="Sejal's Top Languages" /> </div>
 
 🌐 Connect with Me
 💬 Let’s connect and create something amazing together:
