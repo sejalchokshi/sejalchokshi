@@ -1,82 +1,36 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/12345678/your-banner-image.png" alt="Banner" style="width: 100%; height: auto;" />
-</p>
+🌟 Hi, I'm Sejal Chokshi!
+👩‍💻 A Passionate Junior Frontend Developer
+✨ Crafting beautiful, responsive, and user-friendly web experiences is my passion.
+With expertise in HTML, CSS, and JavaScript, I bring creativity and precision to every project. I thrive in collaborative environments and follow Agile methodologies to deliver high-quality solutions.
 
-<!-- Title Section -->
-<h1 align="center">👋 Hi, I'm Sejal Chokshi</h1>
-<h3 align="center">A Passionate Junior Frontend Developer</h3>
+🚀 Currently Exploring:
 
-<!-- About Me Section -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/12345678/your-profile-image.png" alt="Profile Image" width="200" height="200" style="border-radius: 50%;"/>
-</p>
-<p align="center">
-  I specialize in building responsive and intuitive web interfaces using <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>. With a strong understanding of the Software Development Life Cycle (SDLC) and Agile methodology, I deliver quality code and collaborate effectively. I’m currently learning <strong>SQL</strong>, <strong>Python</strong>, and <strong>React.js</strong> to broaden my skill set and tackle more complex projects.
-</p>
+React.js for dynamic user interfaces
+Python for backend scripting
+SQL for data management
+🛠️ Tech Stack & Tools
+<div align="center"> <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5 Badge" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3 Badge" /> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript Badge" /> <img src="https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React.js Badge" /> <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python Badge" /> <img src="https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=for-the-badge" alt="SQL Badge" /> <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git Badge" /> <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub Badge" /> <img src="https://img.shields.io/badge/-JIRA-0052CC?logo=jira&logoColor=white&style=for-the-badge" alt="JIRA Badge" /> </div>
+🌟 Featured Projects
+🛒 Shopping Cart Application
+A dynamic web app designed for a seamless shopping experience.
 
----
+Technologies Used: HTML, CSS, JavaScript
+Key Features:
+Real-time cart updates
+Responsive design for mobile and desktop
+🔗 View Repository
+🌐 Portfolio Website
+A sleek and fully responsive portfolio to showcase my skills and projects.
 
-<!-- Skills Section -->
-<h2>🚀 Skills</h2>
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agile-2496ED?style=for-the-badge&logo=scrum&logoColor=white" />
-</div>
+Technologies Used: HTML, CSS, JavaScript
+🔗 View Repository
+📊 GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sejalchokshi&show_icons=true&theme=radical" alt="Sejal's GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sejalchokshi&theme=radical" alt="Sejal's GitHub Streak" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sejalchokshi&layout=compact&theme=radical" alt="Sejal's Top Languages" /> </div>
+🌐 Connect with Me
+💬 Let’s connect and create something amazing together:
 
----
-
-<!-- Currently Learning Section -->
-<h2>📚 Currently Learning</h2>
-<ul>
-  <li>SQL for database management and querying.</li>
-  <li>Python for backend scripting and data analysis.</li>
-  <li>React.js for creating dynamic and modern UI components.</li>
-</ul>
-
----
-
-<!-- Projects Section -->
-<h2>🛠️ Featured Projects</h2>
-<ul>
-  <li>
-    <strong>Shopping Cart Project</strong> - A dynamic web app to manage and visualize a shopping experience. Built with HTML, CSS, and JavaScript.
-    <br />
-    <a href="https://github.com/yourusername/shopping-cart" target="_blank">🔗 GitHub Repository</a>
-  </li>
-  <li>
-    <strong>Portfolio Website</strong> - A fully responsive personal portfolio showcasing skills, experience, and projects.
-    <br />
-    <a href="https://github.com/yourusername/portfolio" target="_blank">🔗 GitHub Repository</a>
-  </li>
-</ul>
-
----
-
-<!-- Stats and Activity Section -->
-<h2>📊 GitHub Stats</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
-</div>
-
----
-
-<!-- Connect With Me Section -->
-<h2>🌐 Connect with Me</h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/yourlinkedin/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:youremail@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
+💼 LinkedIn
+✉️ Email Me
+🌟 Portfolio (Coming Soon!)
+🎉 Fun Fact
+When I’m not coding, you can find me enjoying movies like Encanto or exploring new technologies!
